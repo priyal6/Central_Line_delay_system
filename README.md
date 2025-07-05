@@ -3,13 +3,13 @@
 
 [![Live Site](https://img.shields.io/badge/Live%20Site-Click%20Here-brightgreen?style=for-the-badge)](https://centralline.netlify.app/)
 
-A real-time machine learning project that predicts **train delays** on the **London Central Line** using live data from the **Transport for London (TfL) Unified API** — no external APIs or weather data involved.
+A real-time machine learning project that predicts **train delays** on the **London Central Line** using live data from the **Transport for London (TfL) Unified API**
 
 ---
 
 ## 📌 Overview
 
-This project demonstrates a full machine learning pipeline:
+
 - 🔄 Collects real-time Central Line train data
 - 🧹 Cleans and processes the data
 - 🧠 Trains a classification model to predict delays (>2 minutes)
@@ -31,7 +31,7 @@ This project demonstrates a full machine learning pipeline:
 
 ## 🔍 Problem Statement
 
-We aim to predict whether an incoming Central Line train will be **delayed by more than 2 minutes** based on:
+aim to predict whether an incoming Central Line train will be **delayed by more than 2 minutes** based on:
 
 - **Station name**
 - **Time of request**
