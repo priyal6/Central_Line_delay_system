@@ -1,0 +1,452 @@
+timestamp,station,platform,line,destination,predictedArrival,vehicledId,towards,delay_sec,delay_bin,hour,day_of_week,is_weekend,is_peak_hour,temp,weather
+2025-07-05 13:54:32.826505+00:00,Perivale Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:54:18+00:00,5,Epping,-14.826505,0,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Mile End Underground Station,Eastbound - Platform 4,Central,Hainault Underground Station,2025-07-05 14:12:48+00:00,257,Hainault via Newbury Park,1095.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Shepherd's Bush (Central) Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:08:48+00:00,5,Epping,855.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Loughton Underground Station,Eastbound - Platform 4,Central,Epping Underground Station,2025-07-05 14:06:48+00:00,32,Epping,735.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Fairlop Underground Station,Inner Rail - Platform 2,Central,Hainault Underground Station,2025-07-05 14:03:49+00:00,254,Hainault via Newbury Park,556.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Woodford Underground Station,Westbound - Platform 2,Central,West Ruislip Underground Station,2025-07-05 14:00:16+00:00,24,West Ruislip,343.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Marble Arch Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:03:48+00:00,3,Epping,555.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Fairlop Underground Station,Outer Rail - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 13:54:48+00:00,52,Ealing Broadway,15.173495,0,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Hanger Lane Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:02:49+00:00,6,Epping,496.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Notting Hill Gate Underground Station,Eastbound - Platform 3,Central,Epping Underground Station,2025-07-05 14:18:49+00:00,6,Epping,1456.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Holland Park Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:04:48+00:00,4,Epping,615.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Shepherd's Bush (Central) Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:02:48+00:00,4,Epping,495.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,White City Underground Station,Eastbound - Platform 4,Central,Epping Underground Station,2025-07-05 14:12:16+00:00,6,Epping,1063.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Mile End Underground Station,Eastbound - Platform 4,Central,Epping Underground Station,2025-07-05 13:58:48+00:00,234,Epping,255.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Leytonstone Underground Station,Eastbound - Platform 3,Central,Hainault Underground Station,2025-07-05 14:11:49+00:00,256,Hainault via Newbury Park,1036.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Shepherd's Bush (Central) Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 13:58:48+00:00,65,Ealing Broadway,255.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Fairlop Underground Station,Inner Rail - Platform 2,Central,Hainault Underground Station,2025-07-05 14:11:49+00:00,255,Hainault via Newbury Park,1036.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Marble Arch Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:07:48+00:00,67,Ealing Broadway,795.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Shepherd's Bush (Central) Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:00:48+00:00,61,Hainault via Newbury Park,375.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Oxford Circus Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:17:49+00:00,70,Ealing Broadway,1396.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Bank Underground Station,Eastbound - Platform 6,Central,Epping Underground Station,2025-07-05 14:04:48+00:00,1,Epping,615.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Bank Underground Station,Westbound - Platform 5,Central,West Ruislip Underground Station,2025-07-05 14:06:49+00:00,21,West Ruislip,736.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Newbury Park Underground Station,Inner Rail - Platform 2,Central,Hainault Underground Station,2025-07-05 14:07:49+00:00,255,Hainault via Newbury Park,796.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Leytonstone Underground Station,Eastbound - Platform 3,Central,Epping Underground Station,2025-07-05 14:22:49+00:00,1,Epping,1696.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Ealing Broadway Underground Station,Eastbound - Platform 5,Central,Ealing Broadway Underground Station,2025-07-05 14:12:49+00:00,65,Ealing Broadway,1096.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Bank Underground Station,Westbound - Platform 5,Central,Ealing Broadway Underground Station,2025-07-05 14:08:49+00:00,70,Ealing Broadway,856.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Tottenham Court Road Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:14:16+00:00,21,West Ruislip,1183.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Epping Underground Station,Westbound - Platform 1,Central,Epping Underground Station,2025-07-05 14:03:48+00:00,230,Epping,555.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Bond Street Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:01:48+00:00,60,Hainault via Newbury Park,435.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,North Acton Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:15:49+00:00,17,West Ruislip,1276.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Oxford Circus Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:15:49+00:00,21,West Ruislip,1276.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Tottenham Court Road Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:06:16+00:00,20,West Ruislip,703.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Oxford Circus Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:00:49+00:00,66,Ealing Broadway,376.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Bank Underground Station,Eastbound - Platform 6,Central,Epping Underground Station,2025-07-05 14:09:48+00:00,2,Epping,915.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Leyton Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:07:49+00:00,223,West Ruislip,796.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Holland Park Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:04:48+00:00,216,West Ruislip,615.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Hainault Underground Station,Inner Rail - Platform 2,Central,Hainault Underground Station,2025-07-05 13:56:19+00:00,253,Hainault via Newbury Park,106.173495,0,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Mile End Underground Station,Eastbound - Platform 4,Central,Epping Underground Station,2025-07-05 14:04:48+00:00,235,Epping,615.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Leytonstone Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:07:49+00:00,52,Ealing Broadway,796.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Queensway Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:55:48+00:00,215,West Ruislip,75.173495,0,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Bank Underground Station,Westbound - Platform 5,Central,Ealing Broadway Underground Station,2025-07-05 14:18:48+00:00,51,Ealing Broadway,1455.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Marble Arch Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:17:48+00:00,5,Epping,1395.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Notting Hill Gate Underground Station,Eastbound - Platform 3,Central,Epping Underground Station,2025-07-05 13:58:19+00:00,3,Epping,226.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,South Ruislip Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:54:49+00:00,11,West Ruislip,16.173495,0,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Lancaster Gate Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:53:56+00:00,215,West Ruislip,-36.826505,0,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Epping Underground Station,Westbound - Platform 1,Central,Epping Underground Station,2025-07-05 14:16:48+00:00,32,Epping,1335.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,East Acton Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:56:18+00:00,4,Epping,105.173495,0,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,East Acton Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:06:48+00:00,215,West Ruislip,735.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Stratford Underground Station,Eastbound - Platform 6,Central,Hainault Underground Station,2025-07-05 14:06:17+00:00,256,Hainault via Newbury Park,704.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Leytonstone Underground Station,Eastbound - Platform 3,Central,Epping Underground Station,2025-07-05 14:13:49+00:00,235,Epping,1156.173495,1,13,5,1,0,,API Error
+2025-07-05 13:54:32.826505+00:00,Bank Underground Station,Westbound - Platform 5,Central,West Ruislip Underground Station,2025-07-05 14:23:48+00:00,223,West Ruislip,1755.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,East Acton Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:22:48+00:00,67,Ealing Broadway,1695.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,East Acton Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:13:48+00:00,17,West Ruislip,1155.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,East Acton Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:54:19+00:00,13,West Ruislip,-13.826505,0,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,East Acton Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 13:55:48+00:00,64,Ealing Broadway,75.173495,0,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Hainault Underground Station,Inner Rail - Platform 3,Central,Hainault Underground Station,2025-07-05 13:56:19+00:00,253,Hainault via Newbury Park,106.173495,0,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Oxford Circus Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:03:49+00:00,60,Hainault via Newbury Park,556.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,East Acton Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:18:48+00:00,66,Ealing Broadway,1455.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Tottenham Court Road Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:15:17+00:00,4,Epping,1244.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,East Acton Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 13:53:53+00:00,61,Hainault via Newbury Park,-39.826505,0,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Bank Underground Station,Eastbound - Platform 6,Central,Epping Underground Station,2025-07-05 14:15:48+00:00,3,Epping,1275.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Shepherd's Bush (Central) Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:12:48+00:00,66,Ealing Broadway,1095.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Oxford Circus Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:19:49+00:00,5,Epping,1516.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Greenford Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:15:48+00:00,215,West Ruislip,1275.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Bond Street Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:02:48+00:00,66,Ealing Broadway,495.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Leytonstone Underground Station,Westbound - Platform 2,Central,West Ruislip Underground Station,2025-07-05 14:04:49+00:00,223,West Ruislip,616.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Mile End Underground Station,Eastbound - Platform 4,Central,Epping Underground Station,2025-07-05 14:18:48+00:00,2,Epping,1455.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Leyton Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:05:49+00:00,234,Epping,676.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,West Ruislip Underground Station,Eastbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:59:17+00:00,11,West Ruislip,284.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Shepherd's Bush (Central) Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:15:48+00:00,6,Epping,1275.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Epping Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:53:53+00:00,226,West Ruislip,-39.826505,0,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Marble Arch Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:58:48+00:00,17,West Ruislip,255.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Woodford Underground Station,Westbound - Platform 2,Central,West Ruislip Underground Station,2025-07-05 13:56:16+00:00,223,West Ruislip,103.173495,0,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Marble Arch Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:18:48+00:00,21,West Ruislip,1455.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Notting Hill Gate Underground Station,Westbound - Platform 4,Central,West Ruislip Underground Station,2025-07-05 13:57:19+00:00,215,West Ruislip,166.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,South Ruislip Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:08:49+00:00,13,West Ruislip,856.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Holborn Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:09:48+00:00,3,Epping,915.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Mile End Underground Station,Eastbound - Platform 4,Central,Hainault Underground Station,2025-07-05 14:01:48+00:00,256,Hainault via Newbury Park,435.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Hanger Lane Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:02:49+00:00,14,West Ruislip,496.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Stratford Underground Station,Westbound - Platform 3,Central,West Ruislip Underground Station,2025-07-05 14:20:17+00:00,25,West Ruislip,1544.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Lancaster Gate Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:00:49+00:00,3,Epping,376.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Bank Underground Station,Eastbound - Platform 6,Central,Hainault Underground Station,2025-07-05 14:02:48+00:00,257,Hainault via Newbury Park,495.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Mile End Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:19:48+00:00,52,Ealing Broadway,1515.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Queensway Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:11:48+00:00,67,Ealing Broadway,1035.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Lancaster Gate Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:05:48+00:00,66,Ealing Broadway,675.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Queensway Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:04:48+00:00,61,Hainault via Newbury Park,615.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Notting Hill Gate Underground Station,Westbound - Platform 4,Central,Ealing Broadway Underground Station,2025-07-05 14:12:49+00:00,67,Ealing Broadway,1096.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Perivale Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:01:48+00:00,13,West Ruislip,435.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,White City Underground Station,Eastbound - Platform 4,Central,Epping Underground Station,2025-07-05 13:59:16+00:00,4,Epping,283.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Leyton Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:17:49+00:00,25,West Ruislip,1396.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Tottenham Court Road Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:08:17+00:00,3,Epping,824.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Wanstead Underground Station,Outer Rail - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 13:56:17+00:00,51,Ealing Broadway,104.173495,0,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Mile End Underground Station,Eastbound - Platform 4,Central,Hainault Underground Station,2025-07-05 14:21:48+00:00,60,Hainault via Newbury Park,1635.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Leytonstone Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 13:58:19+00:00,51,Ealing Broadway,226.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Wanstead Underground Station,Inner Rail - Platform 2,Central,Hainault Underground Station,2025-07-05 14:02:17+00:00,255,Hainault via Newbury Park,464.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Shepherd's Bush (Central) Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:06:48+00:00,216,West Ruislip,735.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Shepherd's Bush (Central) Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:55:18+00:00,3,Epping,45.173495,0,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Holborn Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:04:48+00:00,2,Epping,615.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Hanger Lane Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:56:49+00:00,5,Epping,136.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Debden Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:56:49+00:00,230,Epping,136.173495,1,13,5,1,0,,Unknown
+2025-07-05 13:54:32.826505+00:00,Lancaster Gate Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:59:48+00:00,216,West Ruislip,315.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Queensway Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 13:57:18+00:00,60,Hainault via Newbury Park,165.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Greenford Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:22:48+00:00,216,West Ruislip,1695.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Leyton Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 13:56:19+00:00,255,Hainault via Newbury Park,106.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Fairlop Underground Station,Inner Rail - Platform 2,Central,Hainault Underground Station,2025-07-05 13:53:53+00:00,253,Hainault via Newbury Park,-39.826505,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bond Street Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:58:48+00:00,2,Epping,255.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Lancaster Gate Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:14:49+00:00,5,Epping,1216.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Oxford Circus Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:22:49+00:00,22,West Ruislip,1696.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Northolt Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:18:49+00:00,215,West Ruislip,1456.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,White City Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:09:16+00:00,216,West Ruislip,883.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holland Park Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 13:57:18+00:00,65,Ealing Broadway,165.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,South Woodford Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:06:16+00:00,33,Epping,703.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Redbridge Underground Station,Inner Rail - Platform 2,Central,Hainault Underground Station,2025-07-05 13:55:48+00:00,254,Hainault via Newbury Park,75.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Leytonstone Underground Station,Eastbound - Platform 3,Central,Epping Underground Station,2025-07-05 13:53:57+00:00,32,Epping,-35.826505,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holland Park Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 13:54:18+00:00,60,Hainault via Newbury Park,-14.826505,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Snaresbrook Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:01:48+00:00,223,West Ruislip,435.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Snaresbrook Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:05:48+00:00,24,West Ruislip,675.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Newbury Park Underground Station,Inner Rail - Platform 2,Central,Hainault Underground Station,2025-07-05 14:00:49+00:00,254,Hainault via Newbury Park,376.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Snaresbrook Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:11:48+00:00,25,West Ruislip,1035.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Loughton Underground Station,Eastbound - Platform 4,Central,Epping Underground Station,2025-07-05 13:54:18+00:00,230,Epping,-14.826505,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Snaresbrook Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:57:18+00:00,32,Epping,165.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Leytonstone Underground Station,Eastbound - Platform 3,Central,Epping Underground Station,2025-07-05 14:01:49+00:00,33,Epping,436.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Snaresbrook Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:04:49+00:00,33,Epping,616.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Snaresbrook Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:10:49+00:00,234,Epping,976.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bethnal Green Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:01:49+00:00,235,Epping,436.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Snaresbrook Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:17:49+00:00,235,Epping,1396.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,South Woodford Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:18:16+00:00,235,Epping,1423.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Oxford Circus Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:11:49+00:00,61,Hainault via Newbury Park,1036.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Leytonstone Underground Station,Westbound - Platform 2,Central,West Ruislip Underground Station,2025-07-05 14:08:49+00:00,24,West Ruislip,856.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holborn Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:17:48+00:00,4,Epping,1395.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Liverpool Street Underground Station,Eastbound - Platform 4,Central,Hainault Underground Station,2025-07-05 14:14:48+00:00,60,Hainault via Newbury Park,1215.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Ealing Broadway Underground Station,Eastbound - Platform 6,Central,Hainault Underground Station,2025-07-05 13:53:53+00:00,263,Hainault via Newbury Park,-39.826505,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Chancery Lane Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:11:49+00:00,3,Epping,1036.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Notting Hill Gate Underground Station,Eastbound - Platform 3,Central,Hainault Underground Station,2025-07-05 13:55:19+00:00,60,Hainault via Newbury Park,46.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Oxford Circus Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:04:49+00:00,67,Ealing Broadway,616.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Northolt Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:09:49+00:00,14,West Ruislip,916.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Leyton Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:58:49+00:00,33,Epping,256.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Stratford Underground Station,Eastbound - Platform 6,Central,Epping Underground Station,2025-07-05 14:17:17+00:00,1,Epping,1364.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Queensway Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:06:48+00:00,4,Epping,735.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holborn Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:06:48+00:00,60,Hainault via Newbury Park,735.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Newbury Park Underground Station,Outer Rail - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 13:58:49+00:00,52,Ealing Broadway,256.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Barkingside Underground Station,Inner Rail - Platform 2,Central,Hainault Underground Station,2025-07-05 14:22:49+00:00,256,Hainault via Newbury Park,1696.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Notting Hill Gate Underground Station,Westbound - Platform 4,Central,West Ruislip Underground Station,2025-07-05 14:03:49+00:00,216,West Ruislip,556.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bethnal Green Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:22:49+00:00,52,Ealing Broadway,1696.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Hainault Underground Station,Outer Rail - Platform 1,Central,Hainault Underground Station,2025-07-05 13:56:19+00:00,253,Hainault via Newbury Park,106.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Hanger Lane Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:11:49+00:00,215,West Ruislip,1036.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,South Woodford Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:12:16+00:00,234,Epping,1063.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Chancery Lane Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:08:49+00:00,60,Hainault via Newbury Park,856.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Loughton Underground Station,Eastbound - Platform 4,Central,Epping Underground Station,2025-07-05 14:20:48+00:00,234,Epping,1575.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Stratford Underground Station,Eastbound - Platform 6,Central,Epping Underground Station,2025-07-05 13:56:17+00:00,33,Epping,104.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Loughton Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:59:48+00:00,25,West Ruislip,315.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Debden Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:16:49+00:00,33,Epping,1336.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Liverpool Street Underground Station,Westbound - Platform 5,Central,West Ruislip Underground Station,2025-07-05 13:57:18+00:00,20,West Ruislip,165.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Marble Arch Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:03:48+00:00,66,Ealing Broadway,555.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,West Ruislip Underground Station,Eastbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:14:17+00:00,13,West Ruislip,1184.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,St. Paul's Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:08:16+00:00,2,Epping,823.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,St. Paul's Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:10:16+00:00,60,Hainault via Newbury Park,943.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,St. Paul's Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:10:16+00:00,70,Ealing Broadway,943.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,St. Paul's Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:15:16+00:00,22,West Ruislip,1243.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,St. Paul's Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:13:16+00:00,3,Epping,1123.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,St. Paul's Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:20:16+00:00,51,Ealing Broadway,1543.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Lancaster Gate Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:55:49+00:00,2,Epping,76.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Ealing Broadway Underground Station,Eastbound - Platform 5,Central,Ealing Broadway Underground Station,2025-07-05 14:02:49+00:00,64,Ealing Broadway,496.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,St. Paul's Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:18:16+00:00,61,Hainault via Newbury Park,1423.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Ruislip Gardens Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:56:18+00:00,11,West Ruislip,105.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,St. Paul's Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:20:16+00:00,4,Epping,1543.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Oxford Circus Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:05:49+00:00,3,Epping,676.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,St. Paul's Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 13:54:16+00:00,66,Ealing Broadway,-16.826505,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Debden Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:02:49+00:00,31,Epping,496.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,St. Paul's Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 13:58:16+00:00,67,Ealing Broadway,223.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,St. Paul's Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:00:16+00:00,257,Hainault via Newbury Park,343.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Northolt Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:59:49+00:00,12,West Ruislip,316.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bond Street Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:12:48+00:00,4,Epping,1095.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,St. Paul's Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:01:16+00:00,20,West Ruislip,403.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bethnal Green Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:15:49+00:00,2,Epping,1276.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bethnal Green Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:53:52+00:00,20,West Ruislip,-40.826505,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,St. Paul's Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:02:16+00:00,1,Epping,463.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Marble Arch Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:58:18+00:00,216,West Ruislip,225.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,South Ruislip Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:20:49+00:00,215,West Ruislip,1576.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,St. Paul's Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:08:16+00:00,21,West Ruislip,823.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Tottenham Court Road Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 13:55:16+00:00,257,Hainault via Newbury Park,43.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,North Acton Underground Station,Eastbound - Platform 3,Central,Epping Underground Station,2025-07-05 13:53:58+00:00,4,Epping,-34.826505,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Chancery Lane Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:12:49+00:00,70,Ealing Broadway,1096.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Chancery Lane Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:05:49+00:00,2,Epping,676.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Leytonstone Underground Station,Westbound - Platform 2,Central,West Ruislip Underground Station,2025-07-05 13:53:57+00:00,22,West Ruislip,-35.826505,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bond Street Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:08:48+00:00,20,West Ruislip,855.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Liverpool Street Underground Station,Eastbound - Platform 4,Central,Epping Underground Station,2025-07-05 14:11:48+00:00,2,Epping,1035.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,North Acton Underground Station,Eastbound - Platform 3,Central,Epping Underground Station,2025-07-05 13:59:49+00:00,5,Epping,316.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bethnal Green Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:01:49+00:00,21,West Ruislip,436.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,North Acton Underground Station,Eastbound - Platform 3,Central,Epping Underground Station,2025-07-05 14:06:49+00:00,6,Epping,736.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Woodford Underground Station,Eastbound - Platform 3,Central,Epping Underground Station,2025-07-05 14:01:16+00:00,32,Epping,403.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Tottenham Court Road Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:15:16+00:00,70,Ealing Broadway,1243.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Notting Hill Gate Underground Station,Eastbound - Platform 3,Central,Hainault Underground Station,2025-07-05 14:03:49+00:00,61,Hainault via Newbury Park,556.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holland Park Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:58:48+00:00,215,West Ruislip,255.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Ealing Broadway Underground Station,Eastbound - Platform 6,Central,Ealing Broadway Underground Station,2025-07-05 14:02:49+00:00,64,Ealing Broadway,496.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Notting Hill Gate Underground Station,Westbound - Platform 4,Central,Ealing Broadway Underground Station,2025-07-05 14:08:49+00:00,66,Ealing Broadway,856.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Liverpool Street Underground Station,Westbound - Platform 5,Central,Ealing Broadway Underground Station,2025-07-05 13:54:48+00:00,67,Ealing Broadway,15.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Stratford Underground Station,Westbound - Platform 3,Central,West Ruislip Underground Station,2025-07-05 14:00:17+00:00,22,West Ruislip,344.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bond Street Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:56:48+00:00,216,West Ruislip,135.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Leyton Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:20:49+00:00,1,Epping,1576.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Barkingside Underground Station,Inner Rail - Platform 2,Central,Hainault Underground Station,2025-07-05 14:09:48+00:00,255,Hainault via Newbury Park,915.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Debden Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:09:49+00:00,32,Epping,916.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,South Ruislip Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:54:19+00:00,6,Epping,-13.826505,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Tottenham Court Road Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:56:47+00:00,1,Epping,134.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Mile End Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:16:48+00:00,223,West Ruislip,1335.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Tottenham Court Road Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:55:16+00:00,17,West Ruislip,43.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Chancery Lane Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 13:56:18+00:00,66,Ealing Broadway,105.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Stratford Underground Station,Eastbound - Platform 6,Central,Epping Underground Station,2025-07-05 14:23:17+00:00,2,Epping,1724.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Chancery Lane Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:17:49+00:00,22,West Ruislip,1396.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Queensway Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:59:48+00:00,3,Epping,315.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Ealing Broadway Underground Station,Eastbound - Platform 5,Central,Hainault Underground Station,2025-07-05 13:53:53+00:00,62,Hainault via Newbury Park,-39.826505,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,South Woodford Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:58:16+00:00,32,Epping,223.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Marble Arch Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:10:48+00:00,4,Epping,975.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Lancaster Gate Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:00:48+00:00,17,West Ruislip,375.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Shepherd's Bush (Central) Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:16:48+00:00,67,Ealing Broadway,1335.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Leyton Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:10:49+00:00,52,Ealing Broadway,976.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,North Acton Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:06:49+00:00,65,Ealing Broadway,736.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bethnal Green Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:55:49+00:00,234,Epping,76.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Stratford Underground Station,Eastbound - Platform 6,Central,Epping Underground Station,2025-07-05 14:02:17+00:00,234,Epping,464.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Lancaster Gate Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:12:48+00:00,20,West Ruislip,1095.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holborn Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 13:57:48+00:00,257,Hainault via Newbury Park,195.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,East Acton Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:04:48+00:00,65,Ealing Broadway,615.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Woodford Underground Station,Westbound - Platform 2,Central,West Ruislip Underground Station,2025-07-05 14:05:16+00:00,25,West Ruislip,643.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bond Street Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:57:48+00:00,17,West Ruislip,195.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Queensway Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:07:48+00:00,66,Ealing Broadway,795.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Notting Hill Gate Underground Station,Westbound - Platform 4,Central,Ealing Broadway Underground Station,2025-07-05 13:55:19+00:00,65,Ealing Broadway,46.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Marble Arch Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:00:48+00:00,60,Hainault via Newbury Park,375.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holland Park Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:05:48+00:00,17,West Ruislip,675.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bethnal Green Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:10:49+00:00,1,Epping,976.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,North Acton Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:14:49+00:00,216,West Ruislip,1216.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Tottenham Court Road Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:02:17+00:00,2,Epping,464.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Gants Hill Underground Station,Inner Rail - Platform 2,Central,Hainault Underground Station,2025-07-05 14:17:48+00:00,256,Hainault via Newbury Park,1395.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Greenford Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:03:48+00:00,13,West Ruislip,555.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Perivale Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:00:48+00:00,6,Epping,375.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Oxford Circus Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:56:19+00:00,17,West Ruislip,106.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Mile End Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:58:48+00:00,21,West Ruislip,255.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Oxford Circus Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:55:49+00:00,216,West Ruislip,76.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Gants Hill Underground Station,Outer Rail - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:01:48+00:00,52,Ealing Broadway,435.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,West Ruislip Underground Station,Eastbound - Platform 2,Central,West Ruislip Underground Station,2025-07-05 14:08:16+00:00,12,West Ruislip,823.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Shepherd's Bush (Central) Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:59:48+00:00,215,West Ruislip,315.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Stratford Underground Station,Westbound - Platform 3,Central,Ealing Broadway Underground Station,2025-07-05 14:05:17+00:00,51,Ealing Broadway,644.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Shepherd's Bush (Central) Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:07:48+00:00,17,West Ruislip,795.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Leyton Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:01:49+00:00,51,Ealing Broadway,436.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bank Underground Station,Westbound - Platform 5,Central,West Ruislip Underground Station,2025-07-05 14:13:48+00:00,22,West Ruislip,1155.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Newbury Park Underground Station,Inner Rail - Platform 2,Central,Hainault Underground Station,2025-07-05 14:20:49+00:00,256,Hainault via Newbury Park,1576.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Stratford Underground Station,Westbound - Platform 3,Central,West Ruislip Underground Station,2025-07-05 13:53:47+00:00,21,West Ruislip,-45.826505,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Greenford Underground Station,Eastbound - Platform 3,Central,Epping Underground Station,2025-07-05 13:58:48+00:00,6,Epping,255.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Redbridge Underground Station,Outer Rail - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:03:48+00:00,52,Ealing Broadway,555.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Greenford Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:23:48+00:00,17,West Ruislip,1755.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Liverpool Street Underground Station,Eastbound - Platform 4,Central,Epping Underground Station,2025-07-05 13:57:49+00:00,235,Epping,196.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Ruislip Gardens Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:13:48+00:00,14,West Ruislip,1155.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Hainault Underground Station,Inner Rail - Platform 2,Central,Hainault Underground Station,2025-07-05 14:06:49+00:00,254,Hainault via Newbury Park,736.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Leytonstone Underground Station,Eastbound - Platform 3,Central,Hainault Underground Station,2025-07-05 14:21:49+00:00,257,Hainault via Newbury Park,1636.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Chancery Lane Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:21:49+00:00,51,Ealing Broadway,1636.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Queensway Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:13:48+00:00,5,Epping,1155.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Loughton Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:53:57+00:00,24,West Ruislip,-35.826505,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Gants Hill Underground Station,Inner Rail - Platform 2,Central,Hainault Underground Station,2025-07-05 14:04:48+00:00,255,Hainault via Newbury Park,615.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,West Ruislip Underground Station,Eastbound - Platform 2,Central,West Ruislip Underground Station,2025-07-05 14:14:16+00:00,13,West Ruislip,1183.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Ruislip Gardens Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:03:48+00:00,12,West Ruislip,555.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holborn Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:58:48+00:00,1,Epping,255.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Perivale Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:20:48+00:00,216,West Ruislip,1575.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Debden Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:56:19+00:00,25,West Ruislip,106.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Hainault Underground Station,Outer Rail - Platform 1,Central,Hainault Underground Station,2025-07-05 14:06:49+00:00,254,Hainault via Newbury Park,736.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Chancery Lane Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:00:49+00:00,1,Epping,376.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Liverpool Street Underground Station,Westbound - Platform 5,Central,Ealing Broadway Underground Station,2025-07-05 14:06:48+00:00,70,Ealing Broadway,735.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,West Acton Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:09:17+00:00,65,Ealing Broadway,884.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bethnal Green Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:18:49+00:00,60,Hainault via Newbury Park,1456.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,White City Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:10:16+00:00,17,West Ruislip,943.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,North Acton Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:56:19+00:00,13,West Ruislip,106.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Leytonstone Underground Station,Eastbound - Platform 3,Central,Hainault Underground Station,2025-07-05 13:58:49+00:00,255,Hainault via Newbury Park,256.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Queensway Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 13:53:58+00:00,65,Ealing Broadway,-34.826505,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holland Park Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:10:48+00:00,66,Ealing Broadway,975.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Tottenham Court Road Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:05:17+00:00,60,Hainault via Newbury Park,644.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,South Ruislip Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:12:49+00:00,14,West Ruislip,1096.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Epping Underground Station,Westbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:09:48+00:00,31,Epping,915.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Greenford Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:07:48+00:00,14,West Ruislip,795.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Epping Underground Station,Westbound - Platform 1,Central,Epping Underground Station,2025-07-05 14:09:48+00:00,31,Epping,915.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Redbridge Underground Station,Outer Rail - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 13:54:18+00:00,51,Ealing Broadway,-14.826505,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Hainault Underground Station,Inner Rail - Platform 3,Central,Hainault Underground Station,2025-07-05 14:05:49+00:00,254,Hainault via Newbury Park,676.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Notting Hill Gate Underground Station,Eastbound - Platform 3,Central,Epping Underground Station,2025-07-05 14:05:49+00:00,4,Epping,676.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Loughton Underground Station,Eastbound - Platform 4,Central,Epping Underground Station,2025-07-05 14:14:48+00:00,33,Epping,1215.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Liverpool Street Underground Station,Westbound - Platform 5,Central,West Ruislip Underground Station,2025-07-05 14:04:48+00:00,21,West Ruislip,615.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Woodford Underground Station,Eastbound - Platform 3,Central,Epping Underground Station,2025-07-05 14:21:17+00:00,235,Epping,1604.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Stratford Underground Station,Eastbound - Platform 6,Central,Epping Underground Station,2025-07-05 14:08:17+00:00,235,Epping,824.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bond Street Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:09:48+00:00,61,Hainault via Newbury Park,915.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bethnal Green Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:12:49+00:00,51,Ealing Broadway,1096.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bond Street Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:53:52+00:00,1,Epping,-40.826505,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Perivale Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:55:18+00:00,12,West Ruislip,45.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Mile End Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:00:48+00:00,70,Ealing Broadway,375.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Wanstead Underground Station,Outer Rail - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:05:17+00:00,52,Ealing Broadway,644.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holborn Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:18:48+00:00,22,West Ruislip,1455.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Oxford Circus Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:13:49+00:00,4,Epping,1156.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Stratford Underground Station,Eastbound - Platform 6,Central,Hainault Underground Station,2025-07-05 14:15:17+00:00,257,Hainault via Newbury Park,1244.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Woodford Underground Station,Eastbound - Platform 3,Central,Epping Underground Station,2025-07-05 14:09:16+00:00,33,Epping,883.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Queensway Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:19:48+00:00,6,Epping,1515.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,South Woodford Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:00:17+00:00,223,West Ruislip,344.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Barkingside Underground Station,Inner Rail - Platform 2,Central,Hainault Underground Station,2025-07-05 14:02:48+00:00,254,Hainault via Newbury Park,495.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Redbridge Underground Station,Inner Rail - Platform 2,Central,Hainault Underground Station,2025-07-05 14:16:48+00:00,256,Hainault via Newbury Park,1335.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holland Park Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:57:18+00:00,3,Epping,165.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Chancery Lane Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:02:48+00:00,20,West Ruislip,495.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,East Acton Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:58:18+00:00,14,West Ruislip,225.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Barkingside Underground Station,Outer Rail - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 13:56:48+00:00,52,Ealing Broadway,135.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,White City Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:22:16+00:00,20,West Ruislip,1663.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Hainault Underground Station,Inner Rail - Platform 2,Central,Hainault Underground Station,2025-07-05 14:13:49+00:00,255,Hainault via Newbury Park,1156.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Queensway Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:54:18+00:00,2,Epping,-14.826505,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Lancaster Gate Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:20:49+00:00,21,West Ruislip,1576.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,South Woodford Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:09:16+00:00,25,West Ruislip,883.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Stratford Underground Station,Westbound - Platform 3,Central,Ealing Broadway Underground Station,2025-07-05 13:55:47+00:00,70,Ealing Broadway,74.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Hanger Lane Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:18:49+00:00,17,West Ruislip,1456.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Chancery Lane Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:18:49+00:00,4,Epping,1456.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Stratford Underground Station,Westbound - Platform 3,Central,West Ruislip Underground Station,2025-07-05 14:11:17+00:00,223,West Ruislip,1004.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bethnal Green Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:08:49+00:00,257,Hainault via Newbury Park,856.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Oxford Circus Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:55:19+00:00,1,Epping,46.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,North Acton Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:08:49+00:00,215,West Ruislip,856.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Chancery Lane Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:10:49+00:00,21,West Ruislip,976.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bank Underground Station,Westbound - Platform 5,Central,West Ruislip Underground Station,2025-07-05 13:58:49+00:00,20,West Ruislip,256.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Woodford Underground Station,Eastbound - Platform 3,Central,Epping Underground Station,2025-07-05 14:15:16+00:00,234,Epping,1243.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Perivale Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:20:48+00:00,17,West Ruislip,1575.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bank Underground Station,Eastbound - Platform 6,Central,Epping Underground Station,2025-07-05 13:55:48+00:00,235,Epping,75.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Liverpool Street Underground Station,Eastbound - Platform 4,Central,Hainault Underground Station,2025-07-05 13:55:19+00:00,256,Hainault via Newbury Park,46.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holborn Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:23:48+00:00,51,Ealing Broadway,1755.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Hainault Underground Station,Outer Rail - Platform 1,Central,Hainault Underground Station,2025-07-05 14:13:49+00:00,255,Hainault via Newbury Park,1156.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Wanstead Underground Station,Inner Rail - Platform 2,Central,Hainault Underground Station,2025-07-05 14:15:17+00:00,256,Hainault via Newbury Park,1244.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Queensway Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:14:48+00:00,20,West Ruislip,1215.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,South Ruislip Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:01:49+00:00,12,West Ruislip,436.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Mile End Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:05:48+00:00,22,West Ruislip,675.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Epping Underground Station,Westbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:03:48+00:00,230,Epping,555.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Liverpool Street Underground Station,Westbound - Platform 5,Central,West Ruislip Underground Station,2025-07-05 14:11:48+00:00,22,West Ruislip,1035.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Marble Arch Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:08:48+00:00,61,Hainault via Newbury Park,855.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Stratford Underground Station,Westbound - Platform 3,Central,Ealing Broadway Underground Station,2025-07-05 14:15:17+00:00,52,Ealing Broadway,1244.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Queensway Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:01:48+00:00,216,West Ruislip,435.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Leytonstone Underground Station,Westbound - Platform 2,Central,West Ruislip Underground Station,2025-07-05 14:13:49+00:00,25,West Ruislip,1156.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Hainault Underground Station,Inner Rail - Platform 3,Central,Hainault Underground Station,2025-07-05 14:13:49+00:00,255,Hainault via Newbury Park,1156.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Tottenham Court Road Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:21:17+00:00,5,Epping,1604.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Mile End Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:19:48+00:00,24,West Ruislip,1515.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Lancaster Gate Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:09:48+00:00,67,Ealing Broadway,915.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Chancery Lane Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 13:59:48+00:00,67,Ealing Broadway,315.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bank Underground Station,Eastbound - Platform 6,Central,Hainault Underground Station,2025-07-05 14:20:48+00:00,61,Hainault via Newbury Park,1575.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Mile End Underground Station,Eastbound - Platform 4,Central,Epping Underground Station,2025-07-05 14:13:48+00:00,1,Epping,1155.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,North Acton Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 13:57:49+00:00,64,Ealing Broadway,196.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Oxford Circus Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 13:53:58+00:00,257,Hainault via Newbury Park,-34.826505,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Tottenham Court Road Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:03:16+00:00,67,Ealing Broadway,523.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holborn Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:14:48+00:00,61,Hainault via Newbury Park,1215.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Tottenham Court Road Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:20:16+00:00,22,West Ruislip,1543.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holborn Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:01:48+00:00,67,Ealing Broadway,435.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Ealing Broadway Underground Station,Eastbound - Platform 6,Central,Ealing Broadway Underground Station,2025-07-05 14:12:49+00:00,65,Ealing Broadway,1096.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,White City Underground Station,Eastbound - Platform 4,Central,Hainault Underground Station,2025-07-05 13:57:16+00:00,61,Hainault via Newbury Park,163.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Oxford Circus Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:07:49+00:00,20,West Ruislip,796.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,White City Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:15:16+00:00,66,Ealing Broadway,1243.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,White City Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:01:16+00:00,65,Ealing Broadway,403.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,West Ruislip Underground Station,Eastbound - Platform 2,Central,West Ruislip Underground Station,2025-07-05 13:59:16+00:00,11,West Ruislip,283.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,South Woodford Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:04:16+00:00,24,West Ruislip,583.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,North Acton Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:59:49+00:00,14,West Ruislip,316.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bethnal Green Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:19:49+00:00,223,West Ruislip,1516.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Liverpool Street Underground Station,Eastbound - Platform 4,Central,Epping Underground Station,2025-07-05 14:17:48+00:00,3,Epping,1395.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Shepherd's Bush (Central) Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:18:48+00:00,20,West Ruislip,1455.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,East Acton Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:12:48+00:00,216,West Ruislip,1095.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Leyton Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:08:49+00:00,256,Hainault via Newbury Park,856.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Lancaster Gate Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:21:49+00:00,70,Ealing Broadway,1636.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Oxford Circus Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:00:49+00:00,2,Epping,376.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holborn Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 13:57:49+00:00,66,Ealing Broadway,196.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Epping Underground Station,Westbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:55:18+00:00,27,Epping,45.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Greenford Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:57:18+00:00,12,West Ruislip,165.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bethnal Green Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:22:49+00:00,24,West Ruislip,1696.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bethnal Green Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 13:58:49+00:00,256,Hainault via Newbury Park,256.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,East Acton Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:08:48+00:00,6,Epping,855.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holland Park Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:17:48+00:00,6,Epping,1395.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bethnal Green Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:03:49+00:00,70,Ealing Broadway,556.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Perivale Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:13:48+00:00,215,West Ruislip,1155.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holland Park Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:17:48+00:00,20,West Ruislip,1395.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Northolt Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:05:49+00:00,13,West Ruislip,676.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Leyton Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:11:49+00:00,24,West Ruislip,1036.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Chancery Lane Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:16:49+00:00,61,Hainault via Newbury Park,1336.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Hanger Lane Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:17:49+00:00,216,West Ruislip,1396.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Notting Hill Gate Underground Station,Westbound - Platform 4,Central,West Ruislip Underground Station,2025-07-05 14:04:49+00:00,17,West Ruislip,616.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Leyton Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:57:19+00:00,22,West Ruislip,166.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holborn Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:13:48+00:00,70,Ealing Broadway,1155.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Liverpool Street Underground Station,Eastbound - Platform 4,Central,Epping Underground Station,2025-07-05 14:06:48+00:00,1,Epping,735.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bond Street Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:04:48+00:00,3,Epping,615.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Notting Hill Gate Underground Station,Westbound - Platform 4,Central,West Ruislip Underground Station,2025-07-05 14:15:49+00:00,20,West Ruislip,1276.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,West Ruislip Underground Station,Eastbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:08:17+00:00,12,West Ruislip,824.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Perivale Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:05:48+00:00,14,West Ruislip,675.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,West Ruislip Underground Station,Eastbound - Platform 2,Central,West Ruislip Underground Station,2025-07-05 14:17:16+00:00,14,West Ruislip,1363.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Marble Arch Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:10:48+00:00,20,West Ruislip,975.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,West Ruislip Underground Station,Eastbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:17:17+00:00,14,West Ruislip,1364.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Woodford Underground Station,Eastbound - Platform 3,Central,Epping Underground Station,2025-07-05 13:55:16+00:00,31,Epping,43.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Liverpool Street Underground Station,Eastbound - Platform 4,Central,Hainault Underground Station,2025-07-05 14:22:48+00:00,61,Hainault via Newbury Park,1695.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Epping Underground Station,Westbound - Platform 1,Central,Epping Underground Station,2025-07-05 13:55:48+00:00,27,Epping,75.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Mile End Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:10:48+00:00,51,Ealing Broadway,975.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,White City Underground Station,Eastbound - Platform 4,Central,Epping Underground Station,2025-07-05 14:05:16+00:00,5,Epping,643.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Buckhurst Hill Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:56:18+00:00,24,West Ruislip,105.173495,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Northolt Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:56:49+00:00,6,Epping,136.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Loughton Underground Station,Eastbound - Platform 4,Central,Epping Underground Station,2025-07-05 13:59:48+00:00,31,Epping,315.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bethnal Green Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:08:49+00:00,22,West Ruislip,856.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Notting Hill Gate Underground Station,Eastbound - Platform 3,Central,Epping Underground Station,2025-07-05 14:11:49+00:00,5,Epping,1036.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Lancaster Gate Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:08:49+00:00,4,Epping,856.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Buckhurst Hill Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:11:48+00:00,33,Epping,1035.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Liverpool Street Underground Station,Westbound - Platform 5,Central,West Ruislip Underground Station,2025-07-05 14:22:48+00:00,223,West Ruislip,1695.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Leyton Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:19:49+00:00,257,Hainault via Newbury Park,1516.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Buckhurst Hill Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:04:48+00:00,32,Epping,615.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Buckhurst Hill Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:18:48+00:00,234,Epping,1455.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Buckhurst Hill Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:57:48+00:00,31,Epping,195.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Buckhurst Hill Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:01:48+00:00,25,West Ruislip,435.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Lancaster Gate Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 13:58:49+00:00,60,Hainault via Newbury Park,256.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Gants Hill Underground Station,Inner Rail - Platform 2,Central,Hainault Underground Station,2025-07-05 13:57:48+00:00,254,Hainault via Newbury Park,195.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holborn Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:04:48+00:00,20,West Ruislip,615.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Ruislip Gardens Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:22:48+00:00,215,West Ruislip,1695.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Theydon Bois Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:20:17+00:00,33,Epping,1544.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bank Underground Station,Eastbound - Platform 6,Central,Epping Underground Station,2025-07-05 14:22:48+00:00,4,Epping,1695.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Queensway Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:22:48+00:00,21,West Ruislip,1695.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,White City Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:02:16+00:00,215,West Ruislip,463.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Lancaster Gate Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:21:49+00:00,6,Epping,1636.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,East Acton Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:01:48+00:00,5,Epping,435.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,North Acton Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:20:49+00:00,66,Ealing Broadway,1576.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Stratford Underground Station,Westbound - Platform 3,Central,West Ruislip Underground Station,2025-07-05 14:15:17+00:00,24,West Ruislip,1244.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bond Street Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:06:48+00:00,67,Ealing Broadway,735.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bank Underground Station,Eastbound - Platform 6,Central,Hainault Underground Station,2025-07-05 14:12:48+00:00,60,Hainault via Newbury Park,1095.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holborn Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:12:48+00:00,21,West Ruislip,1095.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bethnal Green Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:21:48+00:00,3,Epping,1635.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Ruislip Gardens Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:10:48+00:00,13,West Ruislip,975.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bond Street Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:23:48+00:00,22,West Ruislip,1755.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Queensway Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:02:48+00:00,17,West Ruislip,495.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Theydon Bois Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:00:17+00:00,230,Epping,344.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Leyton Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:11:49+00:00,235,Epping,1036.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Theydon Bois Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:06:17+00:00,31,Epping,704.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,White City Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:54:16+00:00,14,West Ruislip,-16.826505,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bond Street Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:18:48+00:00,5,Epping,1455.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Redbridge Underground Station,Inner Rail - Platform 2,Central,Hainault Underground Station,2025-07-05 14:03:48+00:00,255,Hainault via Newbury Park,555.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Theydon Bois Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:12:17+00:00,32,Epping,1064.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holland Park Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:01:48+00:00,61,Hainault via Newbury Park,435.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Chancery Lane Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 13:58:49+00:00,257,Hainault via Newbury Park,256.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Lancaster Gate Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:06:49+00:00,61,Hainault via Newbury Park,736.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,White City Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:19:16+00:00,67,Ealing Broadway,1483.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bond Street Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 14:16:48+00:00,21,West Ruislip,1335.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Hanger Lane Underground Station,Westbound - Platform 1,Central,West Ruislip Underground Station,2025-07-05 13:59:49+00:00,13,West Ruislip,316.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Leytonstone Underground Station,Eastbound - Platform 3,Central,Epping Underground Station,2025-07-05 14:07:49+00:00,234,Epping,796.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Tottenham Court Road Underground Station,Eastbound - Platform 2,Central,Hainault Underground Station,2025-07-05 14:13:17+00:00,61,Hainault via Newbury Park,1124.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Liverpool Street Underground Station,Westbound - Platform 5,Central,Ealing Broadway Underground Station,2025-07-05 14:15:48+00:00,51,Ealing Broadway,1275.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holland Park Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:14:48+00:00,67,Ealing Broadway,1215.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Marble Arch Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 13:58:18+00:00,2,Epping,225.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Epping Underground Station,Westbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:16:48+00:00,32,Epping,1335.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,West Acton Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:00:17+00:00,64,Ealing Broadway,344.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Hainault Underground Station,Outer Rail - Platform 1,Central,Woodford Underground Station,2025-07-05 13:53:56+00:00,171,Woodford,-36.826505,0,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Tottenham Court Road Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 13:59:16+00:00,66,Ealing Broadway,283.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Liverpool Street Underground Station,Eastbound - Platform 4,Central,Hainault Underground Station,2025-07-05 14:04:48+00:00,257,Hainault via Newbury Park,615.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Debden Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:23:49+00:00,234,Epping,1756.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Notting Hill Gate Underground Station,Westbound - Platform 4,Central,West Ruislip Underground Station,2025-07-05 14:23:49+00:00,21,West Ruislip,1756.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Marble Arch Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:19:48+00:00,70,Ealing Broadway,1515.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bank Underground Station,Westbound - Platform 5,Central,Ealing Broadway Underground Station,2025-07-05 13:56:49+00:00,67,Ealing Broadway,136.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Holland Park Underground Station,Eastbound - Platform 2,Central,Epping Underground Station,2025-07-05 14:10:48+00:00,5,Epping,975.173495,1,13,5,1,0,,
+2025-07-05 13:54:32.826505+00:00,Bond Street Underground Station,Westbound - Platform 1,Central,Ealing Broadway Underground Station,2025-07-05 14:18:48+00:00,70,Ealing Broadway,1455.173495,1,13,5,1,0,,
