@@ -21,7 +21,7 @@ A real-time machine learning project that predicts **train delays** on the **Lon
 ## 🛠 Tech Stack
 
 - **Python** – Core programming logic
-- **Pandas, Scikit-learn, LightGBM** – Machine learning
+- **Pandas, Scikit-learn, RandomForest** – Machine learning
 - **Seaborn, Matplotlib** – Data visualization
 - **Requests** – TfL API integration
 - **Netlify** – Frontend deployment
